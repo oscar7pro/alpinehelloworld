@@ -1,5 +1,5 @@
 pipeline {
-      environnement  {
+      environment  {
           IMAGE_NAME = "alpinehelloworld"
           IMAGE_TAG = "latest"
           STAGING = "eazytraining-staging"
